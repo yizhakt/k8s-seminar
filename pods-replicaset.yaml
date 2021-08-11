@@ -24,5 +24,4 @@ spec:
       volumes:
       - name: test-volume
         hostPath:
-          path: /tmp/data      
-          type: Directory
+          path: /tmp/data
