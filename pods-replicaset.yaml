@@ -23,6 +23,6 @@ spec:
           name: test-volume
       volumes:
       - name: test-volume
-        hostPath:=      
+        hostPath:
           path: /tmp/data      
           type: Directory
